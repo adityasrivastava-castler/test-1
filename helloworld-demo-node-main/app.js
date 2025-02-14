@@ -13,7 +13,6 @@ const server = http.createServer((req, res) => {
   \\____\\_______/
 
 // adding comments
-// for dev branch
 Hello from Docker!
 `);
   res.end();
