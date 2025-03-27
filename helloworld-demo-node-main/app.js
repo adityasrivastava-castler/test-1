@@ -14,6 +14,7 @@ const server = http.createServer((req, res) => {
 
 // adding comments
 // for dev branch
+// just added comment to check if cron job is working
 Hello from Docker!
 `);
   res.end();
